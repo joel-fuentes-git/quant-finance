@@ -1,1 +1,33 @@
-README forthcoming
+# Intro to High-Performance Computing (HPC) in Finance 
+
+Module 1 (C++)
+- Writes a function to multiply two NxN matrices
+- Uses the function to multiply two 100x100 matrices
+- Measures execution time
+
+Module 2 (C++)
+- Writes a function to price European Call options using the Black Scholes formula
+- Uses it to price 1 million options
+- Measures execution time 
+
+Module 3 (C++)
+- Writes a function to price European style Call options using a binomial tree
+- Measures execution time
+
+Module 4 (C++)
+- Approximates value of pi with a simple Monte Carlo simulation
+
+Module 5 (C++)
+- Writes a function to price European Call options using Monte Carlo
+- Uses the function to price 1 million options
+- Measures execution time
+
+Module 6 (Python) 
+- Writes a function to price European Call options using the Black Scholes formula
+- Uses the function to price 1 million options 
+- Measures execution time
+
+Module 7 (Python)
+- Writes a program to generate a normal Julia set
+- Measure execution time
+- More information about Julia sets: https://en.wikipedia.org/wiki/Julia_set
