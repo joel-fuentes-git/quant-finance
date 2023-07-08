@@ -1,17 +1,3 @@
-// *******************************************************************************
-// Assignment 1 (C/C++)
-  // Due: Tuesday, June 26 by 6 PM.
-  //Write a function to multiply two NxN matrices.
-  //Use the function you wrote to multiply two 100x100 matrices.
-  //Measure execution time.
-  //Vectorizing/parallelizing code is NOT required.
-  //There are many ways to represent a matrix. Any method, including the following, is acceptable.
- // use a library: e.g. Eigen
-  // use std::vector:
-      //using matrix = std::vector<std::vector<float>>;
-      //or
-      //typedef std::vector<std::vector<float>> matrix;...
-
 #include<iostream>
 using namespace std; 
 

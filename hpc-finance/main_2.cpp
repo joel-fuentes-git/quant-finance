@@ -1,18 +1,3 @@
-/******************************************************************************
-
-                   Assignment 2 (C/C++)
-  Due: Tuesday, June 26 by 6 PM.
-  Write a function to price European Call options using Black
-Scholes formula.
-  Use it to price 1 million options.
-  Measure time taken to price 1 million options.
-  Vectorizing/parallelizing code is NOT required.
-  
-  Followed closely http://math60082.blogspot.com/2013/02/c-coding-black-scholes-formula.html
-  was not able to complete* did not price 1 million options
-
-*******************************************************************************/
-
 #include <iostream>
 #include <cmath>
 using namespace std;
